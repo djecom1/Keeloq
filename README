@@ -1,2 +1,4 @@
+Source : https://github.com/franksmicro/Arduino/tree/6c88fd455a929989f9700baae523c462b4157419/libraries/Keeloq
+
 Keeloq encryption algorithm.  Might be useful if you are playing around with Microchip Keeloq chips.  I verified that this algorithm gives the same results as that produced by the Microchip SDK for several test cases.  The Keeloq algorithm is not patented.  However, since Microchip does hold a patent on its application to secure keyless entry, it probably would not be wise to make a commercial secure keyless entry product using this algorithm in a non-Microchip processor.  Personal experimentation should be okay.  If you decide to make something commercial, buy Microchip's processors.
 
