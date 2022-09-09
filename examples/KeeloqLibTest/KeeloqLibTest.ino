@@ -1,4 +1,4 @@
-//#include <Keeloq.h>
+#include <Keeloq.h>
 
 void setup()
 {
