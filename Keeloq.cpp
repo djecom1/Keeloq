@@ -4,7 +4,7 @@
 */
 
 
-//#include "WProgram.h"
+#include "Arduino.h"
 #include "Keeloq.h"
 
 #define KeeLoq_NLF              0x3A5C742EUL
